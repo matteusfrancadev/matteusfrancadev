@@ -7,10 +7,10 @@
 
 ```kotlin
 object Matheus {
- val name = "Matheus França Souto"
- val acknowledgements = "Programador Front-End"
+ const name = "Matheus França Souto"
+ const acknowledgements = "Programador Front-End"
  
- val primarySkillset = "Trabalho em equipe, Comunicação, Determinado"
+ const primarySkillset = "Trabalho em equipe, Comunicação, Determinado"
 }
 ```
 
