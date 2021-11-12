@@ -10,7 +10,7 @@ object Matheus {
  const name = "Matheus França Souto"
  const acknowledgements = "Programador Front-End"
  
- const primarySkillset = "Trabalho em equipe, Comunicação, Determinado"
+ const primarySkillset = "Trabalho em equipe, Comunicação, Determinação"
 }
 ```
 
