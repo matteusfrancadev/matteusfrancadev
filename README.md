@@ -28,11 +28,11 @@ const myProfile {
 ## **GitHub Estatísticas**
 
 <div>
-<a href="https://github.com/matteusfrancadev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteusfrancadev&theme=dark&hide_langs_below=1" />
-</a>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=matteusfrancadev&show_icons=true&icon_color=black&theme=dark&cache_seconds=2300">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteusfrancadev&layout=compact&theme=tokyonight)
+
+
+ ![Matheus Stats](https://github-readme-stats.vercel.app/api?username=matteusfrancadev&show_icons=true&theme=dracula)
 </div>
 
 
@@ -47,8 +47,8 @@ const myProfile {
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:matteusfrancadev@gmail.com" />
  </a>
   
- <a href="https://wa.me/=5571981177698" alt="WhatsApp" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/=5571981177698"/>
+ <a href="https://wa.me/=5571996592110" alt="WhatsApp" target="_blank">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/=5571996592110"/>
  </a>
  
 </div>
